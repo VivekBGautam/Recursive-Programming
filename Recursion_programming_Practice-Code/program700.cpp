@@ -1,5 +1,5 @@
 // Input  : 7891 
-// Output : $
+// Output : $ 
 // final
 
 #include<iostream>
