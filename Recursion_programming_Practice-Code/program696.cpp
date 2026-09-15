@@ -1,4 +1,4 @@
-// Input  : 5
+// Input  : 5 
 // Output : 5   4   3   2   1
 
 #include<iostream>
