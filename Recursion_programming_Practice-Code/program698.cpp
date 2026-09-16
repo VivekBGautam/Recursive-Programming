@@ -1,5 +1,5 @@
 // Input  : 5 
-// Output : 0   1   2   3   4
+// Output : 0   1   2   3   4 
 
 #include<iostream>
 using namespace std;
